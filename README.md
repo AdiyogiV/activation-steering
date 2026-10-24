@@ -7,8 +7,8 @@ Activation steering in about 50 lines of PyTorch, on a small open model (Qwen2.5
 ## Run it
 
 1. Click **Open in Colab** above.
-2. `Runtime → Run all`. A free T4 GPU is already selected. It takes about 2 minutes.
-3. Move the humor slider in step 4, or make your own direction in step 5 (pirate, optimistic, Shakespeare, anything).
+2. `Runtime → Run all`. A free T4 GPU is already selected. It takes about 3 minutes.
+3. Move the humor slider, turn the dial, or make your own direction: pirate, Shakespeare, grumpy (watch it start refusing), anything.
 
 ## What it does
 
